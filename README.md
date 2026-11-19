@@ -4,7 +4,7 @@ A small graphics experiment exploring how repeatedly taking screenshots of an im
 
 ## 🖼️ Original Image
 
-![Original Image](images/original image.jpg)
+![Original Image](original image.jpg)
 
 ## 🔬 Experiment
 
